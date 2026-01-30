@@ -42,7 +42,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Dev Tools
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="skills/vercel_dark.svg" width="50" height="50" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="skills/vscode.svg" width="50" height="50" /></a>&nbsp;
 <a href="https://cursor.com/home?from=agents" target="_blank" rel="noreferrer"><img src="skills/cursor_dark.svg" width="50" height="50" /></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="skills/git.svg" width="50" height="50" /></a>&nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="skills/github_dark.svg" width="50" height="50" /></a>&nbsp;
