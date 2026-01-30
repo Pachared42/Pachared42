@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="skills/javascript.svg" width="50" height="50" /></a>&nbsp;
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" /></a>&nbsp; -->
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="skills/vite.svg" width="50" height="50" /></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="skills/react_dack.svg" width="50" height="50" /></a>&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="skills/react_dark.svg" width="50" height="50" /></a>&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="skills/nextjs_icon_dark.svg" width="50" height="50" /></a>&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="skills/tailwindcss.svg" width="50" height="50" /></a>&nbsp;
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="skills/materialui.svg" width="50" height="50" /></a>&nbsp;
