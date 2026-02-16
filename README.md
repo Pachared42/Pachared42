@@ -60,5 +60,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Design Tools
 <p align="left">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="skills/photoshop.svg" width="50" height="50" /></a>&nbsp;
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="skills/illustrator.svg" width="50" height="50" /></a>
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="skills/illustrator.svg" width="50" height="50" /></a>&nbsp;
+<a href="https://www.canva.com/th_th/" target="_blank" rel="noreferrer"><img src="skills/canva.svg" width="50" height="50" /></a>&nbsp;
+</p>
+
+### Cloud Platform 
+<p align="left">
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="skills/vercel_dark.svg" width="50" height="50" /></a>&nbsp;
+<a href="https://railway.com/" target="_blank" rel="noreferrer"><img src="skills/railway_dark.svg" width="50" height="50" /></a>&nbsp;
 </p>
