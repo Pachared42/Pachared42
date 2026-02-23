@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pachara Kalapakdee
 ===========================================================================================================================================
 
-### Front-End Developer | Passionate about UI/UX & Modern Web
+### Full-Stack Developer | Building Scalable Systems, Clean Architecture & Modern Web Experiences
 
 * 🌍  I'm based in Suphan Buri
 * 🖥️  See my portfolio at [Pachara](http://pachara.vercel.app/)
@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="skills/html5.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="skills/css.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="skills/javascript.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="skills/typescript.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="skills/typescript.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="skills/vite.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="skills/react_dark.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="skills/nextjs_icon_dark.svg" width="50" height="50" /></a>&nbsp;&nbsp;
@@ -53,8 +53,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="skills/github_dark.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="skills/postman.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.warp.dev/" target="_blank" rel="noreferrer"><img src="skills/warp.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="skills/docker.svg" width="50" height="50" /></a>&nbsp;&nbsp;
-<a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="skills/n8n.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="skills/docker.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<!-- <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="skills/n8n.svg" width="50" height="50" /></a>&nbsp;&nbsp; -->
 </p>
 
 ### Design Tools
